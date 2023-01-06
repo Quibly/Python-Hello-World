@@ -18,6 +18,5 @@ I used Python for the programming language.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Source for README.md](https://byui-cse.github.io/cse310-course/modules/psp/README.md)
 * [Mark Down Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
